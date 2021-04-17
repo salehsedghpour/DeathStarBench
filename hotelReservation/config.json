@@ -25,6 +25,5 @@
   "SearchPort": "8082",
   "UserIP": "x.x.x.x",
   "UserPort": "8086",
-  "UserMongoAddress": "x.x.x.x:27023",
-  "Orchestrator": "k8s"
+  "UserMongoAddress": "x.x.x.x:27023"
 }
